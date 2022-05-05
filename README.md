@@ -13,6 +13,8 @@ The following data was retrieved from the API call:
 •	Wind speed
 •	Current Weather description
  
+ ![image](https://user-images.githubusercontent.com/96086671/166950098-1fdbc51a-4743-45c4-bee5-45cc51217eec.png)
+
 
 
 Vacation Search
@@ -23,6 +25,8 @@ Vacation Search
 •	nearby hotels
 •	Show destinations on a marker layer map with pop-up markers
  
+ ![image](https://user-images.githubusercontent.com/96086671/166950188-4edf159f-ad83-4bcd-b102-759a47fc130c.png)
+
 
 Vacation Itinerary
 •	Create a Travel Itinerary Map
@@ -30,5 +34,11 @@ Vacation Itinerary
 •	Figure shows the route between four cities chosen from the customer's possible destinations
 •	Create a marker layer map with pop-up markers for each city on itinerary
  
-
  
+ ![image](https://user-images.githubusercontent.com/96086671/166950304-b61088f6-6b57-48eb-9cce-d869e2ab6c45.png)
+
+
+
+
+ ![image](https://user-images.githubusercontent.com/96086671/166950382-4e0901d4-b4dd-40f1-8849-8ce43609788e.png)
+
