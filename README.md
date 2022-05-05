@@ -29,7 +29,7 @@ The following data was retrieved from the API call:
 
 
 
-Vacation Search
+# Vacation Search
 
 •	Create a Custom Travel Destinations Map
 
@@ -46,7 +46,7 @@ Vacation Search
  ![image](https://user-images.githubusercontent.com/96086671/166950188-4edf159f-ad83-4bcd-b102-759a47fc130c.png)
 
 
-Vacation Itinerary
+# Vacation Itinerary
 
 •	Create a Travel Itinerary Map
 
